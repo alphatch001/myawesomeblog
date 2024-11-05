@@ -1,0 +1,15 @@
+header{
+    background-color:yellowgreen;
+    text-align: center;
+    border-radius: 10px;
+}
+main{
+    text-align: center;
+    line-height: 20px;
+}
+
+footer{
+    background-color: yellowgreen;
+    text-align: center;
+    border-radius: 10px;
+}
